@@ -1,0 +1,38 @@
+[
+  {
+    "session_id": 1,
+    "title": "Elite Athlete - CrossFit Session in Dallas",
+    "city": "Dallas",
+    "category": "CrossFit",
+    "description": "Exclusive crossfit session designed for travelers seeking premium training in Dallas.",
+    "price": 225.82,
+    "rating": 4.7,
+    "reviews_count": 63,
+    "images": ["https://dummyimage.com/600x400/000/fff&text=CrossFit+in+Dallas"],
+    "availability": ["9:00", "7:00", "11:00", "18:00", "10:00", "16:00"]
+  },
+  {
+    "session_id": 2,
+    "title": "Zen Knockout - Boxing Session in Dallas",
+    "city": "Dallas",
+    "category": "Boxing",
+    "description": "Exclusive boxing session designed for travelers seeking premium training in Dallas.",
+    "price": 92.3,
+    "rating": 4.5,
+    "reviews_count": 165,
+    "images": ["https://dummyimage.com/600x400/000/fff&text=Boxing+in+Dallas"],
+    "availability": ["10:00", "12:00", "7:00", "16:00", "18:00", "8:00"]
+  },
+  {
+    "session_id": 3,
+    "title": "Summit Stroke - Swimming Session in Dallas",
+    "city": "Dallas",
+    "category": "Swimming",
+    "description": "Exclusive swimming session designed for travelers seeking premium training in Dallas.",
+    "price": 274.88,
+    "rating": 4.9,
+    "reviews_count": 452,
+    "images": ["https://dummyimage.com/600x400/000/fff&text=Swimming+in+Dallas"],
+    "availability": ["15:00", "9:00", "11:00", "7:00", "16:00", "12:00"]
+  }
+]
